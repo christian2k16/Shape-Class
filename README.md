@@ -1,6 +1,6 @@
-# Shape Class
+# Shape Project
 
-  Shape Class with following properties and behaviors (for the behaviors there will be no implementation just conform to the method signatures and return a valid value to match signature, include system out calls to detail what information should be calculated):
+  Shape Project, Intro Classes
 
 
 [Christian Mallapre] (http://www.mallaprechristian@yahoo.com/) 
